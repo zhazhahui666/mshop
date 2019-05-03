@@ -1,4 +1,4 @@
-package com.zzh.mshop.member;
+package com.zzh.mshop.product;
 
 import com.baomidou.mybatisplus.core.exceptions.MybatisPlusException;
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
